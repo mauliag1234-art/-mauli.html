@@ -1,0 +1,38 @@
+style.css
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h2{
+color:darkred;
+text-align:center;
+}
+
+h3{
+color:skyblue;
+text-align:left;
+}
+
+p {
+  color: darkred;
+  font-size: 20px;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+h3{
+color:skyblue;
+text-align:left;
+}
+
+p {
+  color: darkred;
+  font-size: 20px;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
